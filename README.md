@@ -1,13 +1,3 @@
-# Data-Duplication-Removal-Project
-
-
-Project is based on Machine Learning
-
-### Youtube Explanation : https://www.youtube.com/watch?v=_b_7sjDpuC0
-
-
-![A Salute to Our Veterans](https://user-images.githubusercontent.com/28294942/139524192-b4379891-963b-4c8a-914f-b726a24009cb.png)
-
 
 ## Abstract: 
 In computing, data deduplication is a technique for eliminating duplicate copies of repeating data. A related and somewhat synonymous term is single-instance (data) storage. This technique is used to improve storage utilization and can also be applied to network data transfers to reduce the number of bytes that must be sent. In the de-duplication process, unique chunks of data, or byte patterns, are identified and stored during a process of analysis. As the analysis continues, other chunks are compared to the stored copy and whenever a match occurs, the redundant chunk is replaced with a small reference that points to the stored chunk. Given that the same byte pattern may occur dozens, hundreds, or even thousands of times (the match frequency is dependent on the chunk size), the amount of data that must be stored or transferred can be greatly reduced. One of the most common forms of data de-duplication implementations works by comparing chunks of data to detect duplicates. For that to happen, each chunk of data is assigned an identification, calculated by the software, typically using cryptographic hash functions. In many implementations, the assumption is made that if the identification is identical, the data is identical, even though this cannot be true in all cases due to the pigeonhole principle; other implementations do not assume that two blocks of data with the same identifier are identical, but actually verify that data with the same identification is identical. 
@@ -31,28 +21,5 @@ This work is a novel approach for detecting duplicate records in the context of 
 
 - The goal of this Project is to use a machine learning approach to remove those duplicate entries.
 
-## Want Project files ? 
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel free to contact me for any kind of help on any projects.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### New CSE Project : [Rainfall Prediction Project](https://github.com/Vatshayan/B.tech-Project-Rainfall-Predication-in-India)
-
-### Youtube Explanation : https://www.youtube.com/watch?v=_b_7sjDpuC0
 
 
